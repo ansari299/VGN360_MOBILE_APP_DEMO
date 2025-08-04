@@ -35,11 +35,11 @@ const styles = StyleSheet.create({
   },
   closeButton: {
     position: 'absolute',
-    top: 50,
+    top: 40,
     right: 20,
     backgroundColor: 'black',
     width: 50,
-    height: 40,
+    height: 50,
     borderRadius: 20,
     justifyContent: 'center',
     alignItems: 'center',
